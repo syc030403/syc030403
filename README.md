@@ -1,59 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Song%20Young%20Chang&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Build.%20Break.%20Learn.%20Repeat.&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Song%20Young%20Chang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build.%20Break.%20Learn.%20Repeat.&descAlignY=56&descSize=18" width="100%" />
+
+<a href="https://github.com/syc030403">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=%F0%9F%A4%96+Robots+that+walk+(C%2B%2B+%2F+ROS2);%F0%9F%8F%8E%EF%B8%8F+F1+nerd+%E2%80%94+building+a+season+tracker;%F0%9F%A7%A9+Solving+problems+for+ICPC;%F0%9F%8C%B1+Learning+by+shipping" alt="typing" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=syc030403&style=flat-square&color=7aa2f7&label=profile+views" alt="profile views" />
 
 </div>
 
-### 🧑‍💻 About Me
+<br>
+
+## 🧑‍💻 About Me
+
+```kotlin
+val songYoungChang = Developer(
+    likes     = listOf("로봇 제어", "안드로이드", "웹", "알고리즘"),
+    building  = "boxbox — F1 2026 시즌 트래커",
+    learning  = listOf("ROS2", "Next.js", "DevOps"),
+    motto     = "일단 만들어 보고, 부숴 보고, 배운다",
+)
+```
 
 - 🔧 다양한 언어와 플랫폼을 넘나들며 만들고 실험하는 걸 좋아합니다
-- 🤖 C++ 기반 로봇 제어부터 Kotlin 안드로이드 앱까지 폭넓게 다룹니다
-- 🌱 새로운 기술을 직접 써보며 배우는 중입니다
+- 🤖 C++ 로봇 제어, Kotlin 안드로이드 앱, TypeScript 웹 등 이것저것 만들어 보고 있습니다
+- 🌱 새로운 기술은 직접 써보며 배웁니다
 
 <br>
 
-### 🛠️ Tech Stack
+## 🏁 Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">🏎️<br><b>Formula 1</b><br><sub>레이스 데이터 보는 게 취미라<br>시즌 트래커 앱까지 만드는 중</sub></td>
+    <td align="center" width="25%">🐕<br><b>Robotics</b><br><sub>Unitree GO2 사족보행 로봇<br>웨이포인트 자율 주행</sub></td>
+    <td align="center" width="25%">🧩<br><b>Algorithms</b><br><sub>ICPC 대비<br>C++로 문제 풀이</sub></td>
+    <td align="center" width="25%">🎮<br><b>Games × Dev</b><br><sub>타르코프 유틸 사이트,<br>마인크래프트 서버 운영</sub></td>
+  </tr>
+</table>
 
 <br>
 
-### 📊 GitHub Stats
+## 🧰 Tried & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syc030403&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syc030403&layout=compact&hide_border=true&theme=default" width="37%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syc030403&hide_border=true&theme=default" width="60%" />
-</p>
+<sub>프로젝트나 수업에서 직접 써 본 기술들이에요. 아직 배우는 중입니다 🌱</sub>
 
 <br>
 
-### 🚀 Projects
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js,ts&theme=dark" />
 
-- [**boxbox**](https://github.com/syc030403/boxbox) — F1 2026 시즌 트래커 (Kotlin + XML View 안드로이드 앱, Jolpica API)
-- [**go2_control_cpp**](https://github.com/syc030403/go2_control_cpp) — C++ 로봇 제어 프로젝트
-- [**igolnik-tracker**](https://github.com/syc030403/igolnik-tracker) — TypeScript 기반 트래커
-- [**minecraft-devops**](https://github.com/syc030403/minecraft-devops) — 공부를 위한 마인크래프트 서버 구축 (Python)
+**Frameworks & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,androidstudio,ros,git,github&theme=dark" />
 
 <br>
+
+## 🚀 Projects
+
+| | Project | Description | Stack |
+|:-:|---|---|---|
+| 🏎️ | [**boxbox**](https://github.com/syc030403/boxbox) | F1 2026 시즌 트래커 안드로이드 앱 (Jolpica API) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| 🐕 | [**go2_control_cpp**](https://github.com/syc030403/go2_control_cpp) | Unitree GO2 웨이포인트 기록·자율 주행 — 2025 CO-SHOW 4족보행로봇 경진대회 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) |
+| 🎯 | [**igolnik-tracker**](https://github.com/syc030403/igolnik-tracker) | Escape from Tarkov 한국어 유틸 — 탄약 성능표 + 아이템 시세 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ⛏️ | [**minecraft-devops**](https://github.com/syc030403/minecraft-devops) | 공부를 위한 마인크래프트 서버 구축 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=syc030403&style=flat&color=blue" alt="profile views" />
+<img src="https://streak-stats.demolab.com/?user=syc030403&theme=tokyonight&hide_border=true&border_radius=10" width="70%" />
+
+<br><br>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" />
