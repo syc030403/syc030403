@@ -49,7 +49,7 @@ Robotics, Game
 
 <br><br>
 
-<a href="#github-stats"><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" /></a>
+<a href="#github-stats"><img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D contribution graph" width="100%" /></a>
 
 </div>
 
