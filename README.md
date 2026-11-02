@@ -17,10 +17,6 @@ val songYoungChang = Developer(
 )
 ```
 
-- 다양한 언어와 플랫폼을 넘나들며 만들고 실험하는 걸 좋아합니다
-- C++ 로봇 제어, Kotlin 안드로이드 앱, TypeScript 웹 등 이것저것 만들어 보고 있습니다
-- 새로운 기술은 직접 써보며 배웁니다
-
 <br>
 
 ## Interests
@@ -30,10 +26,6 @@ Robotics, Game
 <br>
 
 ## Tried & Learning
-
-<sub>프로젝트나 수업에서 직접 써 본 기술들이에요. 아직 배우는 중입니다</sub>
-
-<br>
 
 **Languages**
 <br>
