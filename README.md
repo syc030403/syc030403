@@ -6,19 +6,6 @@
 
 <br>
 
-## About Me
-
-```kotlin
-val songYoungChang = Developer(
-    likes     = listOf("로봇 제어", "안드로이드", "웹", "알고리즘"),
-    building  = "boxbox — F1 2026 시즌 트래커",
-    learning  = listOf("ROS2", "Next.js", "DevOps"),
-    motto     = "일단 만들어 보고, 부숴 보고, 배운다",
-)
-```
-
-<br>
-
 ## Interests
 
 Robotics, Game
