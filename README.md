@@ -2,14 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Song%20Young%20Chang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build.%20Break.%20Learn.%20Repeat.&descAlignY=56&descSize=18" width="100%" />
 
-<a href="https://github.com/syc030403">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=%F0%9F%A4%96+Robots+that+walk+(C%2B%2B+%2F+ROS2);%F0%9F%8F%8E%EF%B8%8F+F1+nerd+%E2%80%94+building+a+season+tracker;%F0%9F%A7%A9+Solving+problems+for+ICPC;%F0%9F%8C%B1+Learning+by+shipping" alt="typing" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=syc030403&style=flat-square&color=7aa2f7&label=profile+views" alt="profile views" />
-
 </div>
 
 <br>
