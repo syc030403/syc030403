@@ -22,11 +22,11 @@ Robotics, Game
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js,ts&theme=dark" />
+<a href="#tried--learning"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js,ts&theme=dark" /></a>
 
 **Frameworks & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,androidstudio,ros,git,github&theme=dark" />
+<a href="#tried--learning"><img src="https://skillicons.dev/icons?i=react,nextjs,androidstudio,ros,git,github&theme=dark" /></a>
 
 <br>
 
