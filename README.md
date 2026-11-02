@@ -1,11 +1,3 @@
-<div align="center">
-
-<a href="#about-me"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Song%20Young%20Chang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build.%20Break.%20Learn.%20Repeat.&descAlignY=56&descSize=18" width="100%" /></a>
-
-</div>
-
-<br>
-
 ## About Me
 
 C++ 로봇 제어, Kotlin 안드로이드 앱, TypeScript 웹을 만들고 있습니다.
@@ -52,5 +44,3 @@ Robotics, Game
 <a href="#github-stats"><img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D contribution graph" width="100%" /></a>
 
 </div>
-
-<a href="#github-stats"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" /></a>
