@@ -25,14 +25,7 @@ val songYoungChang = Developer(
 
 ## Interests
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Formula 1</b><br><sub>레이스 데이터 보는 게 취미라<br>시즌 트래커 앱까지 만드는 중</sub></td>
-    <td align="center" width="25%"><b>Robotics</b><br><sub>Unitree GO2 사족보행 로봇<br>웨이포인트 자율 주행</sub></td>
-    <td align="center" width="25%"><b>Algorithms</b><br><sub>ICPC 대비<br>C++로 문제 풀이</sub></td>
-    <td align="center" width="25%"><b>Games × Dev</b><br><sub>타르코프 유틸 사이트,<br>마인크래프트 서버 운영</sub></td>
-  </tr>
-</table>
+Robotics, Game
 
 <br>
 
