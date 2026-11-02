@@ -6,6 +6,12 @@
 
 <br>
 
+## About Me
+
+C++ 로봇 제어, Kotlin 안드로이드 앱, TypeScript 웹을 만들고 있습니다.
+
+<br>
+
 ## Interests
 
 Robotics, Game
