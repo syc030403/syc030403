@@ -1,6 +1,6 @@
 ## About Me
 
-C++ 로봇 제어, Kotlin 안드로이드 앱, TypeScript 웹을 만들고 있습니다.
+무엇이든 만드는 것을 좋아합니다.
 
 <br>
 
