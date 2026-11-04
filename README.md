@@ -30,6 +30,7 @@ Robotics, Game
 | [**go2_control_cpp**](https://github.com/syc030403/go2_control_cpp) | Unitree GO2 웨이포인트 기록·자율 주행 — 2025 CO-SHOW 4족보행로봇 경진대회 | [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#projects) [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](#projects) |
 | [**igolnik-tracker**](https://github.com/syc030403/igolnik-tracker) | Escape from Tarkov 한국어 유틸 — 탄약 성능표 + 아이템 시세 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#projects) |
 | [**minecraft-devops**](https://github.com/syc030403/minecraft-devops) | 공부를 위한 마인크래프트 서버 구축 | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#projects) |
+| [**daily-routine-check**](https://github.com/syc030403/daily-routine-check) | 달력 기반 개인 루틴 체크 웹앱, 구글 로그인으로 기기 간 동기화 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#projects) [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](#projects) |
 
 <br>
 
