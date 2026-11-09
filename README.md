@@ -18,7 +18,7 @@ Robotics, Game
 
 **Frameworks & Tools**
 <br>
-<a href="#tried--learning"><img src="https://skillicons.dev/icons?i=react,nextjs,androidstudio,ros,git,github&theme=dark" /></a>
+<a href="#tried--learning"><img src="https://skillicons.dev/icons?i=react,nextjs,androidstudio,firebase,ros,git,github&theme=dark" /></a>
 
 <br>
 
